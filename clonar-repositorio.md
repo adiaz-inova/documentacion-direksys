@@ -38,4 +38,8 @@ Al dar enter iniciara la descarga del proyecto en tu maquina virtual.
 
 ![Imagen](./images/clonar_proyecto/3.png)
 
+Lo mas imprtante es recordar la ruta en la que esta este proyecto que en si seria:
+
+``cd /home/www/domains/dev2.direksys.com``
+
 [< Regresar al Inicio](./README.md)
