@@ -16,3 +16,5 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
 9. [Configuracion para levantar el aplicativo](./configuracion-para-levantar-aplicativo.md)
 
 
+![oxtodex](https://octodex.github.com/images/NUX_Octodex.gif)
+
