@@ -14,5 +14,9 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
 7. [Configurar host en tu maquina de windows](configurar-host-maquina-windows.md)
 8. [Configuracion de samba](./samba.md)
 9. [Configuracion para levantar el aplicativo](./configuracion-para-levantar-aplicativo.md)
-
+10. [Crearcion de un dbman](./dbman.md)
+    - [Crear vista en dbman](./crear-vista-en-dbman.md)
+11. [Permisos especiales](./permisos-especiales.md)
+12. [Permisos](./permisos.md)
+13. [Permisos especiales](./permisos-especiales.md)
 
