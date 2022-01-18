@@ -21,3 +21,6 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
 13. [Crear nueva seccion en menu](./crear-nueva-seccion-en-menu.md)
     - [Creando un reporte csv](./creando-un-reporte-csv.md)
 
+# Crones (dev2.cron)
+
+1. [Probando un cron](./probando-un-cron.md)
