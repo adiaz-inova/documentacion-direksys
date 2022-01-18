@@ -19,4 +19,6 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
 11. [Permisos especiales](./permisos-especiales.md)
 12. [Permisos](./permisos.md)
 13. [Permisos especiales](./permisos-especiales.md)
+14. [Crear nueva seccion en menu](./crear-nueva-seccion-en-menu.md)
+    - [Creando un reporte csv](./creando-un-reporte-csv.md)
 
