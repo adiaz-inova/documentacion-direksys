@@ -31,4 +31,6 @@ Le cambiamos el bash a zsh para el usuario luis. En el siguiente comando solo su
 chsh -s /bin/zsh luis
 ```
 
-Ahora solo reinicia la marquina virtual con un: ``reboot`` al ingresar de nuevo tu usuario ya contara con zsh.
+Ahora solo reinicia la marquina virtual con un: ``reboot`` al ingresar de nuevo tu usuario ya contara con zsh y se vera algo así:
+
+![Imagen](./images/bonus/1.png)
