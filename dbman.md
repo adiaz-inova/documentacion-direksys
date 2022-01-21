@@ -2,7 +2,7 @@
 
 # Crear dbman
 
-Se creara un dbman como ejemplo para el control de menus dentro del sistmea direcsys.
+Se creara un dbman como ejemplo para el control de menus dentro del sistmea direksys.
 
 Hay que tomar en cuenta que la tabla de menus es la siguiente:
 

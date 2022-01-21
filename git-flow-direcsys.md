@@ -1,6 +1,6 @@
 [< Regresar al Inicio](./README.md)
 
-# Git Flow Direcsys
+# Git Flow Direksys
 
 Se muestra la imagen que determina el flujo de desarrollo y despliegue de cambios en los 3 ambientes que son:
 

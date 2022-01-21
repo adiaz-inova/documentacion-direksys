@@ -19,16 +19,29 @@ Los archivos que se muestran arriba estan en la carpeta ``cgi-bin/common/ubuntu/
 ![Imagen](./images/configuracion-aplicativo/2.png)
 
 
-### Configurando archivo 1 gneral.ex.cfg
+## Configurando archivo gneral.ex.cfg
 
 En el archivo gneral.ex.cfg debes sustituir todas la lineas que contengan ``/home/www/domains/uat.direksys.com`` por ``/home/www/domains/dev2.direksys.com``.
 
-tambien peudes solo sustituir todo ``uat.direksys.com`` por ``dev2.direksys.com``.
+tambien peudes solo sustituir todo ``uat.direksys.com`` por ``dev2.direksys.com``
+
+En la imagen de abajo se muestra como se sustitulle el texto antes mencionado. 
+
+![Imagen](./images/configuracion-aplicativo/3.png)
 
 Esto mismo se debe hacer en cada unos de los archivos que se ven en la imagen:
 
 ![Imagen](./images/configuracion-aplicativo/1.png)
 
 NOTA: Es importante que la copia de los archivos la hagas de la carpeta ``cgi-bin/common/ubuntu/uat`` y los paseas a ``cgi-bin/common``.
+
+
+## Configurando conexiones a base de datos:
+
+Esta configuracion se debe hacer para cada uno de las empresas y se realizan en cada uno de los archivos que se movieron. En este caso solo se muestra con el archivo ``general.e2.cfg`` pero esto tambien se debera realizar en cada uno de los archivos:
+
+Antes de continuar solicita los acceos para que los puedas colocar, es posible que sean los mismos que se ven en la imagen pero pueden haber cambiado con el tiempo:
+
+![Imagen](./images/configuracion-aplicativo/4.png)
 
 De esta forma ya puedes acceder al aplicativo web.

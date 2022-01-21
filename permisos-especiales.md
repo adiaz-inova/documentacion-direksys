@@ -11,7 +11,7 @@ INSERT INTO admin_perms
 VALUES 
 (' Prueba de permiso especial',NULL,'admin','permiso_nuevo','special',0,NULL,NULL,'Active','2022-01-10','18:27:00',27);
 ```
-Ahora nos podemos ir dentro de direcsys en el modulo de Administracion a  Users → Menu Perms
+Ahora nos podemos ir dentro de direksys en el modulo de Administracion a  Users → Menu Perms
 
 ![Imagen](./images/permisos_especiales/1.png)
 

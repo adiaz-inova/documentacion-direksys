@@ -20,7 +20,7 @@ sudo useradd -d /home/nombreDelUsuario -m -s /bin/bash nombreDelUsuario`
 
 El comando pasado hace el uso de banderas las cueales se explican acontinuacion:
 1. ``-d /home/nombreDelUsuario -m``: Este fracmento del comando crea el directorio del usuario que se va crear.
-2. ``-s /bin/bash nombreDelUsuario``: Este fracmento del comando hace que el usuario use por defencto el bash para poder trabajar en la terminal.
+2. ``-s /bin/bash nombreDelUsuario``: Este fragmento del comando hace que el usuario use por defecto el bash para poder trabajar en la terminal.
 
 ## Asignar contraseña al usuario:
 

@@ -8,7 +8,7 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
     - [Acceder por SSH (Ejemplo con MobaXterm)](./acceder-por-ssh.md)
     - [Crear usuario](./crear-usuario-en-linux.md#CrearUsuario)
 3. [Crear carpeta de domains](./crear-carpeta-domains.md)
-4. [Git-Flow direcsys](./git-flow-direcsys.md)
+4. [Git-Flow direksys](./git-flow-direcsys.md)
 5. [Clonar repositorio](./clonar-repositorio.md)
 6. [Configurar virtual host en la maquina virtual`](configurar-virtual-host-maquina-virtual.md)
 7. [Configurar host en tu maquina de windows](configurar-host-maquina-windows.md)
