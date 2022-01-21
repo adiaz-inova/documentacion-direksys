@@ -1,7 +1,8 @@
+[< Regresar al Inicio](./README.md)
+# Instala zsh
+
 Las intalacion de zsh es la misma que en cualquier entorno linux pero por algun motivo en la maquina virtual requiere el uso de root en un punto.
 
-
-# Instala zsh
 Para instalar solo copia y pega los siguientes comandos:
 ```bash
 sudo apt-get install zsh
@@ -34,3 +35,5 @@ chsh -s /bin/zsh luis
 Ahora solo reinicia la marquina virtual con un: ``reboot`` al ingresar de nuevo tu usuario ya contara con zsh y se vera algo así:
 
 ![Imagen](./images/bonus/1.png)
+
+[< Regresar al Inicio](./README.md)

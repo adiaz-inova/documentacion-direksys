@@ -1,3 +1,4 @@
+[< Regresar al Inicio](./README.md)
 # Configuracion para levantar aplicativo
 
 En este punto si accedes a tu navegador http://le.direksys.com/ debes ver un mensaje de error ya que el aplicativo esta fallando. Si por algun motivo no se ve el error o ves otra cosa hay que revisar los puntos:
@@ -45,3 +46,5 @@ Antes de continuar solicita los acceos para que los puedas colocar, es posible q
 ![Imagen](./images/configuracion-aplicativo/4.png)
 
 De esta forma ya puedes acceder al aplicativo web.
+
+[< Regresar al Inicio](./README.md)
