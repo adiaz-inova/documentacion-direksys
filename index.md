@@ -1,4 +1,6 @@
-![Imagen](./images/direksysRN.png)
+<p align="center">
+    <img src="./images/direksysRN.png" />
+</p>
 
 Esta documentacion es para registrar el proceso para el levantamiento de diresys a nivel desarrollo.
 

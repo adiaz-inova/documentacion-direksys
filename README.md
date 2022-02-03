@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./images/direksysRN.png" />
+</p>
+
 # Levantar Direksys
 
 Esta documentacion es para registrar el proceso para el levantamiento de diresys a nivel desarrollo.
