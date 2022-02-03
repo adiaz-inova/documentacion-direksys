@@ -15,6 +15,12 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
 8. [Configuracion de samba](./samba.md)
 9. [Configuracion para levantar el aplicativo](./configuracion-para-levantar-aplicativo.md)
 
+# Configuracion de CFDI
+
+1. [Introducción](./CFDI/introduccion.md)
+2. [Levantar módulo CFDI](./CFDI/levantar-modulo-cfdi.md)
+3. [Configuracion de Certificados .key y .rem](./CFDI/configuracion-certificados-key-rem.md)
+
 # Crear un dbman ejemplo
 
 1. [Crearcion de un dbman](./dbman.md)
