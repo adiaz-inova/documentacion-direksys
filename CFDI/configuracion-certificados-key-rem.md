@@ -105,7 +105,7 @@ En el paso anterios se usa el link de finkok y el link de stackoverflow para pod
 
 Para esto descarga los siguientes archivos:
 
-1. [create_pen.sh](./certificados/create_pen.sh)
+1. [create_pem.sh](./certificados/create_pem.sh)
 2. [EKU9003173C9.cer](./certificados/EKU9003173C9.cer)
 3. [EKU9003173C9.key](./certificados/EKU9003173C9.key)
 4. [EKU9003173C9.cer.pem](./certificados/EKU9003173C9.cer.pem)
