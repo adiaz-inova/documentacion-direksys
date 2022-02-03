@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 # Montar maquina virtual
 
 Antes de inciar recuerda instalar la ultima version de [VirtualBox](https://www.virtualbox.org/). 
@@ -36,4 +36,4 @@ Para configurar la Red se enumeran los pasos a seguir, mismos que veras en la im
 
 Estos pasos debieron configurar tu maquina de forma correcta ahora ya puedes **Iniciar** la maquina. 🖖
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

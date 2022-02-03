@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Configura host en la maquina de windows
 
@@ -26,4 +26,4 @@ En tu navegador accede a : ``http://ls.direksys.com/``
 Pero lo mas seguro es que te muestre un error 500 esto es por que ahora solo falta configurar el sitio a nivel de codigo.
 
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

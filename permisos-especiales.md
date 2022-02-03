@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 # Permisos especiales
 
 Este permiso se puede usar para restringir todo el acceso a una vista o para restringir el acceso partes especificas de la vista como lo puede ser un boton o un formulario.
@@ -43,4 +43,4 @@ Si en el apartado de permisos desactivamos el acceso ahora veremos lo siguiente
 
 ![Imagen](./images/permisos_especiales/8.png)
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

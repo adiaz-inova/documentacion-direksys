@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Configurar Virtual host en la maquina virtual
 
@@ -33,7 +33,7 @@ El comando pasado elimina todos los archivos que esten en la ruta actual y que t
 Si nuevamente ejecutas un ``ls`` ahora la carpeta estara limipa.
 
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 
 ## Limpiar carpeta sites-enabled
@@ -127,4 +127,4 @@ Si todo salio bien dentro de la carpeta ``cd /etc/apache2/sites-enabled`` se cre
 
 **NOTA: El sistema aun no es visible en este punto. Pero lo que se busca es que el ejecutar el ``sudo systemctl status apache2`` te diga que esta funcionando correctamente**.
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 ## Configuración de samba
 Para entrar en contexto solo ve a samba como un servidor que ter permitira acceder a una carpeta especifica desde tu windows sin la necesidad de conectarte por ssh al servidor.
@@ -71,4 +71,4 @@ Recueda sustituir tu ip de la maquina virtual esto te mostra una carpeta con el 
 
 Si asi lo prefieres puedes trabajar ahi con tu editor de codigo.
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

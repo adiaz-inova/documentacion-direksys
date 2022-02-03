@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 # Instala zsh
 
 Las intalacion de zsh es la misma que en cualquier entorno linux pero por algun motivo en la maquina virtual requiere el uso de root en un punto.
@@ -36,4 +36,4 @@ Ahora solo reinicia la marquina virtual con un: ``reboot`` al ingresar de nuevo 
 
 ![Imagen](./images/bonus/1.png)
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

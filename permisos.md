@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Permisos
 
@@ -40,4 +40,4 @@ SELECT * from admin_users_perms sm WHERE command = 'report2022';
 
 
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

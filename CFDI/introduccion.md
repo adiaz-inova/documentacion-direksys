@@ -1,4 +1,4 @@
-[< Regresar al Inicio](../README.md)
+[< Regresar al Inicio](../index.md)
 
 # Introducción
 
@@ -13,4 +13,4 @@ Al ingresar se puede ver la siguiente vista:
 Si en tu caso no se ve de esta forma debes inicar la configuracion para poder acceder a esta vista: [Configuración del módulo CFDI.](./configuracion-cfdi.md)
 
 
-[< Regresar al Inicio](../README.md)
+[< Regresar al Inicio](../index.md)

@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Crear nueva seccion en menu
 
@@ -189,4 +189,4 @@ Para este ejemplo accedemos a la misma ruta creada pero en la url agregamos: &ot
 
 ![Imagen](./images/crear-nueva-seccion-en-menu/3.png)
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

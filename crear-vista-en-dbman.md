@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Crear tu propia vista (icono del ojo)
 
@@ -176,4 +176,4 @@ menuman_viewed=Menu Manager Viewed
 menuman_printed=Menu Manager Printed
 ```
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

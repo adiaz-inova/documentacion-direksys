@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 Documentacion: [https://github.com/adiaz-inova/dev2.direksys.com/wiki/Crones](https://github.com/adiaz-inova/dev2.direksys.com/wiki/Crones)
 
@@ -113,4 +113,4 @@ WHERE
 admin_events_logs.ID_admin_events_logs= 8850665;
 ```
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

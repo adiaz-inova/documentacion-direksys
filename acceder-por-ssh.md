@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 [< Regresar al Crear usuario en linux](./crear-usuario-en-linux.md)
 
@@ -24,6 +24,6 @@ Por ulitmo debes ver algo como esto:
 
 ![Imagen](./images/moba/4.png)
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 [< Regresar al Crear usuario en linux](./crear-usuario-en-linux.md)

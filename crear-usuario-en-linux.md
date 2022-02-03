@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Crear usuario
 
@@ -47,4 +47,4 @@ En este punto ya cuenta con el usuario nuevo pero sigues logueado con el usuario
 1. [Acceder por SSH (Ejemplo con MobaXterm)](./acceder-por-ssh.md)
 
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

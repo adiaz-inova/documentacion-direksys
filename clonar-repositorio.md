@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Clonar Repositorio
 
@@ -42,4 +42,4 @@ Lo mas imprtante es recordar la ruta en la que esta este proyecto que en si seri
 
 ``cd /home/www/domains/dev2.direksys.com``
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

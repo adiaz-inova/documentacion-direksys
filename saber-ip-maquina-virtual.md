@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 [< Regresar al Crear usuario en linux](./crear-usuario-en-linux.md)
 
@@ -15,6 +15,6 @@ Esto nos muestra información sobre la red de la maquina virtual, se tiene que b
 
 ![Imagen](./images/saber_ip/3.png)
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 [< Regresar al Crear usuario en linux](./crear-usuario-en-linux.md)

@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Crear carpeta de domains
 
@@ -28,4 +28,4 @@ rm -r dev2.direksys.com
 rm -r dev2.cron
 ```
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

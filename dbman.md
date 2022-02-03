@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Crear dbman
 
@@ -211,4 +211,4 @@ y si damos click a tab de arriba que dice: Add Manager menus veremos que ahora n
 
 ![Imagen](./images/dbman/18.png)
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)

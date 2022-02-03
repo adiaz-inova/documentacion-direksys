@@ -1,4 +1,4 @@
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
 
 # Git Flow Direksys
 
@@ -14,4 +14,4 @@ Se considera que la mejor explicacion deber ser por parte de alguien del equipo 
 
 Solo solicita que te expliquen este git flow.
 
-[< Regresar al Inicio](./README.md)
+[< Regresar al Inicio](./index.md)
