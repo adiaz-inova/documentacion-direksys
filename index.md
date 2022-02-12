@@ -41,6 +41,7 @@ Esta documentacion es para registrar el proceso para el levantamiento de diresys
 # Crones (dev2.cron)
 
 1. [Probando un cron](./probando-un-cron.md)
+2. [Cron para timbrar invoice status New](./crones/cron-para-timbrar-invoice-status-new.md)
 
 # Bonus esteroides a tu terminal linux
 1. [Instala zsh](./Instala-zsh.md)
