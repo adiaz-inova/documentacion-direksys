@@ -9,6 +9,13 @@ En este punto si accedes a tu navegador http://le.direksys.com/ debes ver un men
 
 # Configuración
 
+Hay que ir al direcctorio: `cd /dev2.direksys.com/httpdocs/service` y dentro del el ejecutar el comando:
+
+`composer install`
+
+Dentro de ese directorio se creara el archivo **vendor**.
+
+
 Dentro del proyecto dev2.direksys.com hay que entrar en la carpeta ``cgi-bin/common`` en esa carpeta hay que generar los archivos requeridos.
 
 En la imagen se ven los archivos que se deben generar para hacer que el sistema funcione correctamente. Esos archivos no estan en tu carpeta la imagen solo es una referencia de como debe quedar.
